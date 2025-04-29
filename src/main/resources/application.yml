@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: chat
+
+openrouter:
+    api:
+        key: ${OPENROUTER_API_KEY}
+
