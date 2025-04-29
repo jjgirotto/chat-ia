@@ -4,5 +4,5 @@ spring:
 
 openrouter:
     api:
-        key: ${OPENROUTER_API_KEY}
+        key: "OPENROUTER_API_KEY"
 
